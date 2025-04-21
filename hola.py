@@ -42,4 +42,9 @@
 # else  print ("usted es un tatita")
 
 
-
+clave=3344
+pas=int(input("ingrese la clave"))
+if pas==clave:
+    print("bienvenidos al sistema")
+else
+    print ("clave invalida")
